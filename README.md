@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Kiril 👋
 
-<!--
-**KirilShy/KirilShy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer & IT Administrator
 
-Here are some ideas to get you started:
+⚡ Python / Django
+⚡ PostgreSQL
+⚡ AWS Cloud
+⚡ Docker
+⚡ REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+- Building commercial CRM systems
+- Preparing for AWS AI & Cloud Practitioner
+- Looking for my second IT position
+
+Projects:
+- Production CRM for immigration office
+- CRM for poultry processing company
+- Helpdesk SaaS
+- AWS File Upload API
+
+Links:
+kiril.pl
+LinkedIn
+Email
