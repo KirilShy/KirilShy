@@ -18,8 +18,3 @@ Projects:
 - CRM for poultry processing company
 - Helpdesk SaaS
 - AWS File Upload API
-
-Links:
-kiril.pl
-LinkedIn
-Email
