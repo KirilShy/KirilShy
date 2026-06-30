@@ -3,6 +3,7 @@
 Backend Developer & IT Administrator from Poland.
 
 💼 1+ year of professional IT experience
+🚀 2 production CRM systems deployed
 ⚡ Python / Django / PostgreSQL
 ☁️ AWS Cloud
 🐳 Docker
@@ -10,7 +11,7 @@ Backend Developer & IT Administrator from Poland.
 
 ## Currently
 
-* Building commercial CRM systems for real businesses
+* Improving and maintaining commercial CRM systems
 * Preparing for AWS AI Practitioner & Cloud Practitioner
 * Looking for my next IT opportunity
 
@@ -18,7 +19,7 @@ Backend Developer & IT Administrator from Poland.
 
 * IT Administrator at YURT GROUP Sp. z o.o.
 * Developed and deployed a production CRM system for an immigration office
-* Building CRM solutions for business clients
+* Developed and deployed a commercial CRM system for a poultry processing company
 
 ## Featured Projects
 
@@ -26,9 +27,9 @@ Backend Developer & IT Administrator from Poland.
 
 Production CRM used by an immigration office to manage clients, cases and payments.
 
-### Commercial CRM Platform
+### Poultry Company CRM
 
-Business management system for a poultry processing company.
+Production CRM used by a poultry processing company to manage employees, contracts, payments and reports.
 
 ### Helpdesk SaaS
 
