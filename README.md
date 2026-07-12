@@ -21,10 +21,8 @@ Backend Developer & IT Administrator from Poland.
 
 ## Certifications
 <a href="https://www.credly.com/badges/fdc965d1-6093-4487-b4f3-8b3520102bb1/public_url">
-  <img src="assets/aws-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="90"/>
+  <img src="assets/aws-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="150"/>
 </a>
-
-**AWS Certified AI Practitioner (AIF-C01)** — issued by Amazon Web Services
 
 ## Featured Projects
 ### Biuro Granica CRM
