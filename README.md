@@ -1,5 +1,5 @@
 # Hi, I'm Kiril 👋
-Backend Developer & IT Administrator from Poland.
+Backend Developer from Poland.
 
 💼 1+ year of professional IT experience
 🚀 2 production CRM systems deployed
@@ -15,7 +15,7 @@ Backend Developer & IT Administrator from Poland.
 * Looking for my next IT opportunity
 
 ## Professional Experience
-* IT Administrator at YURT GROUP Sp. z o.o.
+* IT Administrator & Backend dev at YURT GROUP Sp. z o.o.
 * Developed and deployed a production CRM system for an immigration office
 * Developed and deployed a commercial CRM system for a poultry processing company
 
