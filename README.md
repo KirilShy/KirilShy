@@ -38,6 +38,6 @@ Ticket management platform with authentication, roles and REST API.
 Secure file upload service using AWS S3, signed URLs and Docker.
 
 ## Links
-🌐 kiril.pl
+🌐 <a href="https://kiril.pl">kiril.pl</a>
 📧 [kiril@kiril.pl](mailto:kiril@kiril.pl)
 💼 <a href="www.linkedin.com/in/kiril-shynkarenko-476aa62a2">LinkedIn</a>
