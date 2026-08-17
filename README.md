@@ -11,13 +11,13 @@ Backend Developer from Poland.
 
 ## Currently
 * Improving and maintaining commercial CRM systems
+* Developing backend solutions for businesses
 * Preparing for AWS Certified Cloud Practitioner
-* Looking for my next IT opportunity
 
 ## Professional Experience
 * IT Administrator & Backend dev at YURT GROUP Sp. z o.o.
-* Developed and deployed a production CRM system for an immigration office
-* Developed and deployed a commercial CRM system for a poultry processing company
+* Designed, developed and deployed custom CRM systems for real businesses
+* Built scalable backend systems, REST APIs and database-driven applications
 
 ## Certifications
 <a href="https://www.credly.com/badges/fdc965d1-6093-4487-b4f3-8b3520102bb1/public_url">
