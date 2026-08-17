@@ -2,7 +2,7 @@
 Backend Developer from Poland.
 
 💼 1+ year of professional IT experience
-🚀 2 production CRM systems deployed
+🚀 4 production CRM systems deployed
 ⚡ Python / Django / PostgreSQL
 ☁️ AWS Cloud
 🐳 Docker
