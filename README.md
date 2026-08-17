@@ -40,4 +40,4 @@ Secure file upload service using AWS S3, signed URLs and Docker.
 ## Links
 🌐 kiril.pl
 📧 [kiril@kiril.pl](mailto:kiril@kiril.pl)
-💼 LinkedIn
+💼 <a href="www.linkedin.com/in/kiril-shynkarenko-476aa62a2">LinkedIn</a>
